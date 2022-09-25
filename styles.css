@@ -1,0 +1,22 @@
+body{
+    font-family: serif;
+}
+
+#square{
+    background-color: beige;
+    color:rgb(164, 141, 110);
+    border-radius: 5px;
+    text-align: center;
+    padding:20px 0px;
+    max-width: 600px;
+    margin: auto;
+}
+#links{
+    max-width: 600px;
+    text-align: center;
+    margin:auto;
+    padding: 10px;
+    text-decoration: dotted;
+    color: rgb(202, 12, 12);
+    border-bottom: 1px solid darkgrey;
+}
