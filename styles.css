@@ -3,18 +3,17 @@ body{
 }
 div{
     margin: auto;
+    max-width: 600px;
 }
 #square{
     background-color: beige;
-    color:rgb(164, 141, 110);
+    color:rgb(158, 135, 103);
     border-radius: 5px;
     text-align: center;
     padding:20px 0px;
-    max-width: 600px;
     
 }
 #links{
-    max-width: 600px;
     text-align: center;
     border-bottom: 1px solid darkgrey;
 }
@@ -33,4 +32,7 @@ a{
     border-bottom: 3px solid black;
     background-size: cover;
     background-image: url(images/molly.jpeg);
+}
+#text{
+    
 }
