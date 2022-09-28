@@ -15,11 +15,13 @@ div{
 }
 #links{
     text-align: center;
-    border-bottom: 1px solid darkgrey;
+    border-bottom: 1px solid lightgrey;
 }
 a{
     color: grey;
     padding: 10px;
+    text-decoration: dotted;
+    text-decoration-line:underline;
     display: inline-block;
 }
 .headline{
@@ -34,5 +36,5 @@ a{
     background-image: url(images/molly.jpeg);
 }
 #text{
-    border-bottom: 1px solid darkgrey;
+    border-bottom: 1px solid lightgrey;
 }
